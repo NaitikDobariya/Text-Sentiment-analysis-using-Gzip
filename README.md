@@ -34,4 +34,4 @@ After thorough experimentation, all the implemented models exhibited promising p
 
 The Support Vector Classifier (SVC) came out as the most effective classifier, performing better than the KNeighborsClassifier which was used in the referenced paper.
 
-Thank you for your interest in the Gzip-Based Text Sentiment Classification project!
+Thank you for your interest.
